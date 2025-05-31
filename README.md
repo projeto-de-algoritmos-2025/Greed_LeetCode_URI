@@ -4,10 +4,10 @@
 **Conteúdo da Disciplina**: Greed<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| 18/0015311  |  Danilo Domingo Vitoriano Silva |
-| 20/0058576  |  Joao Victor Marques Reis de Miranda |
+| Matrícula  | Aluno                               |
+| ---------- | ----------------------------------- |
+| 18/0015311 | Danilo Domingo Vitoriano Silva      |
+| 20/0058576 | Joao Victor Marques Reis de Miranda |
 
 ## Sobre 
 Este repositório foi criado para a soluções de problemas de juízes online, que são dos temas abordados na disciplina de Projeto de Algoritmos.
@@ -16,12 +16,12 @@ Este repositório foi criado para a soluções de problemas de juízes online, q
 
 Tabela com os links para as devidas questões.
 
-| Problema                                                                                 | Dificuldade | Método        | Solução Código                                                                  | Responsável                                                               |
-| ---------------------------------------------------------------------------------------- | ----------- | ------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [Beecrowd 1286 - Motoboy](https://judge.beecrowd.com/pt/problems/view/1286)       | Médio (5)   | Knapsack      | [1286.py](/solucoes/)                        | [Danilo]([grafos-2/beecrowd-1123-desvio_de_rota/desvio_rota.md](https://github.com/danilow200))          |
-| -        | - | -      | -                        | -                |
-| -        | - | -      | -                        | -                |
-| -        | - | -      | -                        | -                |
+| Problema                                                                    | Dificuldade | Método   | Solução Código               | Responsável                             |
+| --------------------------------------------------------------------------- | ----------- | -------- | ---------------------------- | --------------------------------------- |
+| [Beecrowd 1286 - Motoboy](https://judge.beecrowd.com/pt/problems/view/1286) | Médio (5)   | Knapsack | [1286.py](/solucoes/1286.py) | [Danilo](https://github.com/danilow200) |
+| -                                                                           | -           | -        | -                            | -                                       |
+| -                                                                           | -           | -        | -                            | -                                       |
+| -                                                                           | -           | -        | -                            | -                                       |
 
 
 
