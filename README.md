@@ -27,7 +27,11 @@ Tabela com os links para as devidas questões.
 
 ## Screenshots
 
+### Beecrowd 1286 - Motoboy
+![Motoboy](/img/1286.png)
 
+### Beecrowd 1086 - O Salão do Clube
+![O Salão do Clube](/img/1086.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
