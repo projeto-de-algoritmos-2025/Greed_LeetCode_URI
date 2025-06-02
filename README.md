@@ -20,7 +20,7 @@ Tabela com os links para as devidas questões.
 | --------------------------------------------------------------------------- | ----------- | -------- | ---------------------------- | --------------------------------------- |
 | [Beecrowd 1286 - Motoboy](https://judge.beecrowd.com/pt/problems/view/1286) | Médio (5)   | Knapsack | [1286.py](/solucoes/1286.py) | [Danilo](https://github.com/danilow200) |
 | [Beecrowd 1086 - O Salão do Clube](https://judge.beecrowd.com/pt/problems/view/1086)                                                                         | Difícil (7)         | Interval Partitioning        | [1086.py](/solucoes/1086.py)                          | [Danilo](https://github.com/danilow200)                                      |
-| -                                                                           | -           | -        | -                            | -                                       |
+| [LeetCode 2518 - Number of Great Partitions](https://leetcode.com/problems/number-of-great-partitions/description/)                                                                           | Difícil           | Knapsack        | [2518.py](/solucoes/2518.py)                            | [Joao Victor](https://github.com/jmarquees)                                      |
 | -                                                                           | -           | -        | -                            | -                                       |
 
 
@@ -32,6 +32,9 @@ Tabela com os links para as devidas questões.
 
 ### Beecrowd 1086 - O Salão do Clube
 ![O Salão do Clube](/img/1086.png)
+
+### LeetCode 2518 - Number of Great Partitions
+![Number of Great Partitions](/img/2518.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
